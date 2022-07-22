@@ -1,0 +1,136 @@
+/* COLORS
+#264653
+#2a9d8f
+#e9c46a
+#f4a261
+#e76f51
+*/
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #264653;
+
+    font-family: "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji';
+}
+
+a {
+    color: #2a9d8f;
+}
+
+a:first-of-type {
+    text-decoration: none;
+    color: #2a9d8f;
+}
+
+a:first-of-type:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+    color: #2a9d8f;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+main {
+    margin: 10px auto;
+
+    max-width: 720px;
+}
+
+article {
+
+    background-color: #e9c46a;
+
+    padding: 10px;
+    margin: 20px 0;
+
+    border-radius: 10px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+.cloud {
+	clear: both;
+	padding: 10px;
+	border-radius: 10px;
+	text-align: center;
+	margin: 20px auto;
+	border: solid 1px;
+	border-style: dashed;
+	list-style: none;
+    background-color: #f4a261;
+}
+
+.cloud li {
+	display: inline-block;
+}
+
+.cloud a {
+	display: block;
+	width: auto;
+	border-radius: 10px;
+	padding: .25em;
+	margin: 2px;
+    color: #264653;
+}
+
+.cloud a:hover {
+	box-shadow: 2px 2px 2px 2px black;
+}
+
+table {
+    margin: 10px auto;
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+figure {
+    margin: 0 auto;
+    border: 25px solid #B88846;
+    border-style: double;
+    aspect-ratio: 48/80;
+    max-width: 240px;
+    
+}
+
+.mage {
+    max-width: 240px;
+    width: 100%;
+    min-height: 100%;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    display: block;
+}
+
+/* @media (min-width: 800px) {
+	figure {
+        min-height: 400px;
+		display: block ;
+		float: right;
+		padding: 10px ;
+		clear: both;
+	}
+
+    .cloud {
+        margin: 0;
+    }
+} */
