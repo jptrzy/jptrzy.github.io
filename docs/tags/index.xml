@@ -1,0 +1,114 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Jptrzy&#39;s site</title>
+	<link>https://jptrzy.github.io/tags/</link>
+	<description>Recent content in Tags on Jptrzy&#39;s site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="https://jptrzy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>📦 My Projects</title>
+		<link>https://jptrzy.github.io/projects/</link>
+		<pubDate>Wed, 12 Oct 2022 15:38:28 +0200</pubDate>
+		
+		<guid>https://jptrzy.github.io/projects/</guid>
+		<description>&lt;p&gt;This is organized list of my project; if you want more random one you can check out &lt;a href=&#34;https://github.com/jptrzy&#34;&gt;my github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-minecraft-mods&#34;&gt;🧊 Minecraft Mods&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://modrinth.com/mod/infusion-table&#34;&gt;Infusion Table&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://modrinth.com/mod/slime-mimic-mod&#34;&gt;Slime Mimic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://modrinth.com/mod/mining-helmet-mod&#34;&gt;Mining Helmet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://modrinth.com/mod/trinkets-curios-theme&#34;&gt;Trinkets Curios Theme&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-personal-programs&#34;&gt;My personal programs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jptrzy/neo-comic-mono-font&#34;&gt;Neo Comic Mono&lt;/a&gt; - the only true font&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jptrzy/open-manga&#34;&gt;Open Manga&lt;/a&gt; - like the name says it is a &lt;strong&gt;manhwa&lt;/strong&gt; viewer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;utils&#34;&gt;Utils&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jptrzy/mp3-tagging&#34;&gt;mp3-tagging&lt;/a&gt; - music files tagger&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jptrzy/i3sb&#34;&gt;i3sb&lt;/a&gt; - simple i3 bar&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>🤔 Interesting Thinks</title>
+		<link>https://jptrzy.github.io/interesting/</link>
+		<pubDate>Wed, 12 Oct 2022 15:05:27 +0200</pubDate>
+		
+		<guid>https://jptrzy.github.io/interesting/</guid>
+		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Here I list interesting projects or other stuff.&lt;/p&gt;
+&lt;h2 id=&#34;personal-webpage&#34;&gt;Personal Webpage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://lukesmith.xyz/&#34;&gt;Luke Smith&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lambdaurora.dev/&#34;&gt;🦊 LambdAurora&lt;/a&gt; - minecraft mods creator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;groups&#34;&gt;Groups&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://suckless.org/&#34;&gt;Suckless&lt;/a&gt; - software that sucks less&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;games&#34;&gt;Games&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nethack.org/&#34;&gt;NetHack&lt;/a&gt; and other children&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cataclysmdda.org/&#34;&gt;Cataclysm: Dark Days Ahead&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;others&#34;&gt;Others&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quiltmc.org&#34;&gt;QuiltMC&lt;/a&gt; - minecraft modloader&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>💸 Support</title>
+		<link>https://jptrzy.github.io/donation/</link>
+		<pubDate>Wed, 12 Oct 2022 09:52:26 +0200</pubDate>
+		
+		<guid>https://jptrzy.github.io/donation/</guid>
+		<description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;You can support my work by buying me a &lt;a href=&#34;https://ko-fi.com/jptrzy&#34;&gt;☕ ko-fi&lt;/a&gt; or sending me monero.&lt;/p&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb-monero&#34;&gt;
+&lt;figure class=&#34;icon&#34;&gt;&lt;img src=&#34;xmr.svg&#34;&gt;&lt;/figure&gt;
+ Monero&lt;/h2&gt;
+
+&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;monero-qr-code.png&#34;&gt;&lt;figcaption&gt;89Ru6aNHpZSNkj7pP2nbtEcqWmcgdnX9GZL5cy5WJa1bLaQcjstbhYQEPFVEqSm4w5FQjbSnVnkfSM8jdis4EXxmCGNLTqA&lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>📧 Contact</title>
+		<link>https://jptrzy.github.io/contact/</link>
+		<pubDate>Wed, 12 Oct 2022 09:52:26 +0200</pubDate>
+		
+		<guid>https://jptrzy.github.io/contact/</guid>
+		<description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;email&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:jptrzy@gmail.com&#34;&gt;jptrzy@gmail.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;discord&lt;/td&gt;
+&lt;td&gt;jptrzy#3313&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;Please don&amp;rsquo;t contact me via curseforge, because I don&amp;rsquo;t open it often.&lt;/em&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

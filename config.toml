@@ -1,0 +1,9 @@
+baseURL = 'https://jptrzy.github.io'
+languageCode = 'en-us'
+title = "Jptrzy's site"
+publishDir = "docs"
+
+theme = "lugo"
+
+[params]
+favicon = "/favicon.ico"
