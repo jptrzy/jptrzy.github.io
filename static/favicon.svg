@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100pt"
+   height="100pt"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:zoom="4.3893395"
+     inkscape:cx="41.578009"
+     inkscape:cy="75.296066"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient10099"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10097" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10091"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10089" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10083"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10081" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 50 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 50 : 1"
+       inkscape:persp3d-origin="50 : 33.333333 : 1"
+       id="perspective117" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#a860c0;stroke:#4e0070;stroke-width:1.00000004;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:2, 4;stroke-opacity:1;paint-order:normal;fill-opacity:1;stroke-dashoffset:0"
+       id="path8046"
+       cx="49.999996"
+       cy="50"
+       rx="45.92823"
+       ry="45.928234" />
+    <rect
+       style="fill:#7800a0;fill-opacity:1;stroke:#7800a0;stroke-width:1.48251974;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:1.48251975, 2.07552765;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect16146-7"
+       width="48.516842"
+       height="48.516846"
+       x="46.452263"
+       y="-24.258421"
+       transform="rotate(45)" />
+    <rect
+       style="fill:#8c24ac;fill-opacity:1;stroke:#8c24ac;stroke-width:1.48316;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:2.96632, 5.93265;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect16146"
+       width="48.516842"
+       height="48.516846"
+       x="25.741581"
+       y="25.741581" />
+  </g>
+</svg>

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Jptrzy&#39;s site</title>
-	<link>https://jptrzy.github.io/categories/</link>
+	<link>https://jptrzy.xyz/categories/</link>
 	<description>Recent content in Categories on Jptrzy&#39;s site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://jptrzy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jptrzy.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>📦 My Projects</title>
-		<link>https://jptrzy.github.io/projects/</link>
+		<link>https://jptrzy.xyz/projects/</link>
 		<pubDate>Wed, 12 Oct 2022 15:38:28 +0200</pubDate>
 		
-		<guid>https://jptrzy.github.io/projects/</guid>
+		<guid>https://jptrzy.xyz/projects/</guid>
 		<description>&lt;p&gt;This is organized list of my project; if you want more random one you can check out &lt;a href=&#34;https://github.com/jptrzy&#34;&gt;my github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-minecraft-mods&#34;&gt;🧊 Minecraft Mods&lt;/h2&gt;
 &lt;ul&gt;
@@ -38,10 +38,10 @@
 	
 	<item>
 		<title>🤔 Interesting Thinks</title>
-		<link>https://jptrzy.github.io/interesting/</link>
+		<link>https://jptrzy.xyz/interesting/</link>
 		<pubDate>Wed, 12 Oct 2022 15:05:27 +0200</pubDate>
 		
-		<guid>https://jptrzy.github.io/interesting/</guid>
+		<guid>https://jptrzy.xyz/interesting/</guid>
 		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Here I list interesting projects or other stuff.&lt;/p&gt;
 &lt;h2 id=&#34;personal-webpage&#34;&gt;Personal Webpage&lt;/h2&gt;
@@ -67,10 +67,10 @@
 	
 	<item>
 		<title>💸 Support</title>
-		<link>https://jptrzy.github.io/donation/</link>
+		<link>https://jptrzy.xyz/donation/</link>
 		<pubDate>Wed, 12 Oct 2022 09:52:26 +0200</pubDate>
 		
-		<guid>https://jptrzy.github.io/donation/</guid>
+		<guid>https://jptrzy.xyz/donation/</guid>
 		<description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
 &lt;p&gt;You can support my work by buying me a &lt;a href=&#34;https://ko-fi.com/jptrzy&#34;&gt;☕ ko-fi&lt;/a&gt; or sending me monero.&lt;/p&gt;
 &lt;h2 id=&#34;hahahugoshortcode-s0-hbhb-monero&#34;&gt;
@@ -84,10 +84,10 @@
 	
 	<item>
 		<title>📧 Contact</title>
-		<link>https://jptrzy.github.io/contact/</link>
+		<link>https://jptrzy.xyz/contact/</link>
 		<pubDate>Wed, 12 Oct 2022 09:52:26 +0200</pubDate>
 		
-		<guid>https://jptrzy.github.io/contact/</guid>
+		<guid>https://jptrzy.xyz/contact/</guid>
 		<description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;

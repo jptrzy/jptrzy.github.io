@@ -1,4 +1,4 @@
-baseURL = 'https://jptrzy.github.io'
+baseURL = 'https://jptrzy.xyz'
 languageCode = 'en-us'
 title = "Jptrzy's site"
 publishDir = "docs"
