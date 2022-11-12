@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jptrzy.xyz/articles/</loc>
+    <lastmod>2022-11-09T23:21:15+01:00</lastmod>
+  </url><url>
+    <loc>https://jptrzy.xyz/articles/libreboot-journy/</loc>
+    <lastmod>2022-11-09T23:21:15+01:00</lastmod>
+  </url><url>
     <loc>https://jptrzy.xyz/projects/</loc>
     <lastmod>2022-10-12T15:38:28+02:00</lastmod>
   </url><url>

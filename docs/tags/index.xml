@@ -10,6 +10,40 @@
 	
 	
 	<item>
+		<title>Small librebooted x60s journey</title>
+		<link>https://jptrzy.xyz/articles/libreboot-journy/</link>
+		<pubDate>Wed, 09 Nov 2022 23:21:15 +0100</pubDate>
+		
+		<guid>https://jptrzy.xyz/articles/libreboot-journy/</guid>
+		<description>&lt;p&gt;Since I start using my X220 I always wanted to install libreboot on it.
+Unfortunately for me libreboot &lt;a href=&#34;https://libreboot.org/docs/hardware/&#34;&gt;never came for it&lt;/a&gt; and I was left with coreboot.
+But because I have a long list of things to do I never have time to even touch it.&lt;/p&gt;
+&lt;p&gt;So years go by and I had finally forgotten about it.
+Then one week ago when I was searching (for some unknown reason) for x60 I found a really good offer for it.
+One advantage of the offer was that it was librebooted from the start and that I needn&amp;rsquo;t install it (Yes, I know that it is easy to install it on x60).
+So I bought it and &amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;libreboot&#34;&gt;Libreboot&lt;/h2&gt;
+&lt;p&gt;&amp;hellip; when I get it my small amount of knowledge and understanding of libreboot documentation take the direction of the story.
+Firstly laptop comes without a hard drive, so I put in an old 60G drive with alpine linux installed on it.
+After a few unsuccessful attempts to boot it, I install grub on it and everything starts working fine.&lt;/p&gt;
+&lt;p&gt;It appears that libreboot has build-in grub and all you need is to generate &lt;code&gt;/boot/grub/grub.cfg&lt;/code&gt; by running &lt;code&gt;grub-mkconfig -o /boot/grub/grub.cfg&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Another problem I come by was its unwillingness to work with some pen drives.
+Usually, I just needed to plug it out and in, but sometimes it wouldn&amp;rsquo;t help and the only help was in grub console mode &lt;em&gt;(or just it didn&amp;rsquo;t work)&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;parabola-linux&#34;&gt;Parabola linux&lt;/h2&gt;
+&lt;p&gt;I like alpine linux, but I wanted to have something with 100% free software and it wasn&amp;rsquo;t visible with alpine, so I tried installing &lt;a href=&#34;https://www.parabola.nu/&#34;&gt;parabola linux&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first problem was that I couldn&amp;rsquo;t boot it for &lt;a href=&#34;https://labs.parabola.nu/issues/2108&#34;&gt;some&lt;/a&gt; reason, but when I booted &lt;a href=&#34;https://mirrors.dotsrc.org/parabola/iso/parabola-openrc-2021.08.11/parabola-openrc-2021.08.11-dual.iso&#34;&gt;the old iso&lt;/a&gt; of it and &lt;a href=&#34;https://wiki.manjaro.org/index.php/Pacman_troubleshooting#Errors_about_Keys&#34;&gt;dealt&lt;/a&gt; with some outdated pgp keys everything went fine. &lt;em&gt;(It was a mess.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After installation most things went just fine, I rebooted the system and maybe forgot about installing some basic openrc packages, but after burning more time I have quite a usable system.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you would think about installing parabola linux firstly you can convert your current archlinux system (if you have one) into parabola one and secondly you might want to think about installing &lt;code&gt;your-freedom&lt;/code&gt; and &lt;code&gt;your-privacy&lt;/code&gt; packages.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
+&lt;p&gt;The next obstacle on my way to a usable daily driver was unwillingness of some software to work well.&lt;/p&gt;
+&lt;p&gt;One of which was firefox that I replaced for &lt;a href=&#34;https://fanglingsu.github.io/vimb&#34;&gt;vimb&lt;/a&gt;. Why not &lt;a href=&#34;https://surf.suckless.org/&#34;&gt;surf&lt;/a&gt; someone could ask; for some reason it is slower than vimb or &lt;a href=&#34;https://www.qutebrowser.org/&#34;&gt;qutebrowser&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;plans-for-the-future&#34;&gt;Plans for the future&lt;/h2&gt;
+&lt;p&gt;One of the annoyances of x60 for me is its screen low brightness. So I&amp;rsquo;m thinking about doing &amp;ldquo;small&amp;rdquo; mod that I found is &lt;a href=&#34;https://youtu.be/coJdBNazXuA?t=200&#34;&gt;possible&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Use express card slot for &lt;a href=&#34;https://www.youtube.com/watch?v=fYvozIP58Vo&#34;&gt;something&lt;/a&gt; fun or &lt;a href=&#34;https://thinkmods.store/collections/all-mods-1/products/expresscard-to-nvme-adapter&#34;&gt;useful&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>📦 My Projects</title>
 		<link>https://jptrzy.xyz/projects/</link>
 		<pubDate>Wed, 12 Oct 2022 15:38:28 +0200</pubDate>

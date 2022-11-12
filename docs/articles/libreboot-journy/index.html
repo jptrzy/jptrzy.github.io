@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Small Librebooted X60s Journey | Jptrzy&#39;s site</title>
+	<link rel="canonical" href="https://jptrzy.xyz">
+	<link rel='alternate' type='application/rss+xml' title="Jptrzy&#39;s site RSS" href='/index.xml'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
+
+	<link rel="icon" href="favicon.svg">
+	<meta name="description" content="Since I start using my X220 I always wanted to install libreboot on it. Unfortunately for me libreboot never came for it and I was left with coreboot. But because I have a long list of things to do I never have time to even touch it.
+So years go by and I had finally forgotten about it. Then one week ago when I was searching (for some unknown reason) for x60 I found a really good offer for it.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+
+<body>
+	
+	<a href="https://jptrzy.xyz" class="🏠">🏠</a>
+	
+	<main>
+		<header>
+			<h1 id="tag_Small librebooted x60s journey">Small librebooted x60s journey</h1>
+		</header>
+		
+		<article>
+			
+			<p>Since I start using my X220 I always wanted to install libreboot on it.
+Unfortunately for me libreboot <a href="https://libreboot.org/docs/hardware/">never came for it</a> and I was left with coreboot.
+But because I have a long list of things to do I never have time to even touch it.</p>
+<p>So years go by and I had finally forgotten about it.
+Then one week ago when I was searching (for some unknown reason) for x60 I found a really good offer for it.
+One advantage of the offer was that it was librebooted from the start and that I needn&rsquo;t install it (Yes, I know that it is easy to install it on x60).
+So I bought it and &hellip;</p>
+<h2 id="libreboot">Libreboot</h2>
+<p>&hellip; when I get it my small amount of knowledge and understanding of libreboot documentation take the direction of the story.
+Firstly laptop comes without a hard drive, so I put in an old 60G drive with alpine linux installed on it.
+After a few unsuccessful attempts to boot it, I install grub on it and everything starts working fine.</p>
+<p>It appears that libreboot has build-in grub and all you need is to generate <code>/boot/grub/grub.cfg</code> by running <code>grub-mkconfig -o /boot/grub/grub.cfg</code>.</p>
+<p>Another problem I come by was its unwillingness to work with some pen drives.
+Usually, I just needed to plug it out and in, but sometimes it wouldn&rsquo;t help and the only help was in grub console mode <em>(or just it didn&rsquo;t work)</em>.</p>
+<h2 id="parabola-linux">Parabola linux</h2>
+<p>I like alpine linux, but I wanted to have something with 100% free software and it wasn&rsquo;t visible with alpine, so I tried installing <a href="https://www.parabola.nu/">parabola linux</a>.</p>
+<p>The first problem was that I couldn&rsquo;t boot it for <a href="https://labs.parabola.nu/issues/2108">some</a> reason, but when I booted <a href="https://mirrors.dotsrc.org/parabola/iso/parabola-openrc-2021.08.11/parabola-openrc-2021.08.11-dual.iso">the old iso</a> of it and <a href="https://wiki.manjaro.org/index.php/Pacman_troubleshooting#Errors_about_Keys">dealt</a> with some outdated pgp keys everything went fine. <em>(It was a mess.)</em></p>
+<p>After installation most things went just fine, I rebooted the system and maybe forgot about installing some basic openrc packages, but after burning more time I have quite a usable system.</p>
+<p><em>If you would think about installing parabola linux firstly you can convert your current archlinux system (if you have one) into parabola one and secondly you might want to think about installing <code>your-freedom</code> and <code>your-privacy</code> packages.</em></p>
+<h3 id="software">Software</h3>
+<p>The next obstacle on my way to a usable daily driver was unwillingness of some software to work well.</p>
+<p>One of which was firefox that I replaced for <a href="https://fanglingsu.github.io/vimb">vimb</a>. Why not <a href="https://surf.suckless.org/">surf</a> someone could ask; for some reason it is slower than vimb or <a href="https://www.qutebrowser.org/">qutebrowser</a>.</p>
+<h2 id="plans-for-the-future">Plans for the future</h2>
+<p>One of the annoyances of x60 for me is its screen low brightness. So I&rsquo;m thinking about doing &ldquo;small&rdquo; mod that I found is <a href="https://youtu.be/coJdBNazXuA?t=200">possible</a>.</p>
+<p>Use express card slot for <a href="https://www.youtube.com/watch?v=fYvozIP58Vo">something</a> fun or <a href="https://thinkmods.store/collections/all-mods-1/products/expresscard-to-nvme-adapter">useful</a>.</p>
+
+			
+			</article>
+	</main>
+
+	
+	<footer>
+		<a href="https://jptrzy.xyz">
+			
+			🏠 Home page
+			
+		</a>
+		
+	</footer>
+
+	
+</body>
+
+</html>
