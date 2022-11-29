@@ -11,9 +11,10 @@ Hi I'm jptrzy and welcome to my website. For now their isn't much stuff here, bu
 - [📧 Contact](contact)
 - [💸 Support](donation)
 - [🤔 Interesting Things](interesting)
+- [📙 Things I use](use)
 - [{{<_img src="rss.svg" class="icon">}} RSS](index.xml)
 
-## 📜 Newest ones
+## 📜 Newest ones of [articles](articles)
 {{< index/recent >}}
 
 *...but if you stump on this side by mere accident and you want to continue your journey throw the darkness of the modern web, you might be interested in **[this](interesting)***.
